@@ -19,3 +19,6 @@ Testing (Automated)-
 ~ Selenium WebDriver: Selenium WebDriver is a web framework that permits you to execute cross-browser tests. This tool is used for automating web-based application testing to verify that it performs expectedly. Selenium WebDriver allows you to choose a programming language to create test scripts.
 
 ~ Advantages of Selenium: You don’t have to worry about language and framework support as Selenium does that for you! Selenium has become the most reliable web automation tool because of the ease of generating test scripts to validate functionality. You don’t need to rewrite scripts for every browser, just one script for all browsers. You can create Selenium test suites over any platform like Windows and can execute the same test suite on another platform, for example, Mac or Linux. Selenium provides a user-friendly interface that helps create and execute test scripts easily and effectively. Selenium requires less hardware as compared to other testing tools. With the help of Selenium Grid, we can execute multiple tests in parallel, hence reducing the test execution time. 
+
+
+Video on LinkedIn- https://www.linkedin.com/posts/dhanashree-paste-465101215_task6-gripnovember21-thesparksfoundation-activity-6864841378904453121-FcGf
